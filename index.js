@@ -1,1 +1,16 @@
 console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
+console.log("Criei um arquivo");
