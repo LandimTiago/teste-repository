@@ -1,5 +1,5 @@
-// Não modificar pois bla bla bla
+function mostraConsole() {
+  console.log("Mostrando console");
+}
 
-// TODO: Refatorar depois da entrega
-
-console.log("Criei um arquivo");
+mostraConsole();
