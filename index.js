@@ -1,16 +1,5 @@
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
-console.log("Criei um arquivo");
+function mostraConsole() {
+  console.log("Mostrando console");
+}
+
+mostraConsole();
